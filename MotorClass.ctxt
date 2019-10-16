@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MotorClass
+comment1.params=
+comment1.target=MotorClass()
+comment2.params=
+comment2.target=void\ hitLeft()
+comment3.params=
+comment3.target=void\ hitRight()
+comment4.params=
+comment4.target=void\ driveForward()
+comment5.params=
+comment5.target=void\ turnAround()
+comment6.params=msg
+comment6.target=void\ writeExeption(java.lang.Exception)
+numComments=7

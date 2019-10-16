@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Washer
+comment1.params=
+comment1.target=Washer()
+comment2.params=
+comment2.target=void\ StartWashing()
+comment3.params=
+comment3.target=void\ washTrigger()
+comment4.params=
+comment4.target=void\ StopWashing()
+numComments=5
